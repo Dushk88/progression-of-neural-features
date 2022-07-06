@@ -26,4 +26,4 @@
     </table>
     </div>
     
-<a href="ARO_Dushyanthi.pdf", download = "nn">mypdf</a>
+<object data="ARO_Dushyanthi.pdf" width="1000" height="1000" type='application/pdf'></object>
