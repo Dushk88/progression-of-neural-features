@@ -1,17 +1,13 @@
 # Progression of acoustic, phonemic, lexical and sentential neural features emerge during speech listening
 
-This website presents the audio files of the .....
-
-## Brief Intro
-
 
 ## Audio files
 <div style="overflow-x: auto;" class="figure">
     <table class="audioTable">
         <tr>
 <!--             <th rowspan="2">Audio</th> -->
-            <th colspan="2">Audio type</th>
-            <th colspan="2">Audio file</th>
+            <th colspan="2">Passage type</th>
+            <th colspan="2">Sample audio file</th>
 <!--             <th rowspan="2">Audio</th> -->
         <tr>
             <th colspan="2">Modulated Noise</th>
