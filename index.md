@@ -15,19 +15,19 @@ This website presents the audio files of the .....
 <!--             <th rowspan="2">Audio</th> -->
         <tr>
             <th colspan="2">Modulated Noise</th>
-            <td><audio controls="controls"><source src=""></audio></td>
+            <td><audio controls="controls"><source src="AS_M01.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Non-word</th>
-            <td><audio controls="controls"><source src="PH_M01.wav"></audio></td>
+            <td><audio controls="controls"><source src="PH_M01.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Scrambled word</th>
-            <td><audio controls="controls"><source src=""></audio></td>
+            <td><audio controls="controls"><source src="ASM_M01.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Narrative</th>
-            <td><audio controls="controls"><source src=""></audio></td>
+            <td><audio controls="controls"><source src="AS_M01.mp3"></audio></td>
         </tr>
     </table>
 </div>
