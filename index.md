@@ -18,15 +18,15 @@ This website presents the audio files of the .....
             <td><audio controls="controls"><source src=""></audio></td>
         </tr>
         <tr>
-            <th colspan="2">Modulated Noise</th>
+            <th colspan="2">Non-word</th>
             <td><audio controls="controls"><source src=""></audio></td>
         </tr>
         <tr>
-            <th colspan="2">Modulated Noise</th>
+            <th colspan="2">Scrambled word</th>
             <td><audio controls="controls"><source src=""></audio></td>
         </tr>
         <tr>
-            <th colspan="2">Modulated Noise</th>
+            <th colspan="2">Narrative</th>
             <td><audio controls="controls"><source src=""></audio></td>
         </tr>
         <tr>
