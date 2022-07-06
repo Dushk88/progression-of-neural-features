@@ -29,9 +29,5 @@ This website presents the audio files of the .....
             <th colspan="2">Narrative</th>
             <td><audio controls="controls"><source src=""></audio></td>
         </tr>
-        <tr>
-            <th colspan="2">Modulated Noise</th>
-            <td><audio controls="controls"><source src=""></audio></td>
-        </tr>
     </table>
 </div>
