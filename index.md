@@ -25,4 +25,4 @@
         </tr>
   
     
-<object data="ARO_Dushyanthi.pdf" width="1000" height="500" type='application/pdf'></object>
+<object data="GRC2022_Dushyanthi.pdf" width="1000" height="500" type='application/pdf'></object>
