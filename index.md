@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <th colspan="2">Non-word</th>
-            <td><audio controls="controls"><source src="Nonword.mp3"></audio></td>
+            <td><audio controls="controls"><source src="Non-words.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Scrambled word</th>
