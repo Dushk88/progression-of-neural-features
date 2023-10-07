@@ -25,4 +25,3 @@
         </tr>
   
     
-<object data="GRC2022_Dushyanthi.pdf" width="1000" height="500" type='application/pdf'></object>
