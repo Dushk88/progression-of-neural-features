@@ -1,4 +1,4 @@
-# Progression of acoustic, phonemic, lexical, and sentential neural features emerge during speech listening
+
 
 
 ## Audio files
