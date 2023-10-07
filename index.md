@@ -1,4 +1,4 @@
-# Progression of acoustic, phonemic, lexical and sentential neural features emerge during speech listening
+# Progression of acoustic, phonemic, lexical, and sentential neural features emerge during speech listening
 
 
 ## Audio files
@@ -9,19 +9,19 @@
             <th colspan="2">Sample audio file</th>
         <tr>
             <th colspan="2">Modulated Noise</th>
-            <td><audio controls="controls"><source src="ASN_M01.mp3"></audio></td>
+            <td><audio controls="controls"><source src="Noise.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Non-word</th>
-            <td><audio controls="controls"><source src="PH_M01.mp3"></audio></td>
+            <td><audio controls="controls"><source src="Nonword.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Scrambled word</th>
-            <td><audio controls="controls"><source src="ASM_M01.mp3"></audio></td>
+            <td><audio controls="controls"><source src="Scrambled.mp3"></audio></td>
         </tr>
         <tr>
             <th colspan="2">Narrative</th>
-            <td><audio controls="controls"><source src="AS_M01.mp3"></audio></td>
+            <td><audio controls="controls"><source src="Narrative.mp3"></audio></td>
         </tr>
   
     
